@@ -1,1 +1,1 @@
-# stat598_fp_rweight
+# STAT59800 Final Project
